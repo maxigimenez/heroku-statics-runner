@@ -1,0 +1,27 @@
+{
+  "name": "heroku-statics-runner",
+  "version": "1.0.0",
+  "description": "Running statics files on Heroku using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxigimenez/heroku-statics-runner.git"
+  },
+  "keywords": [
+    "heroku",
+    "statics"
+  ],
+  "author": "Maxi Gimenez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxigimenez/heroku-statics-runner/issues"
+  },
+  "homepage": "https://github.com/maxigimenez/heroku-statics-runner",
+  "dependencies": {
+    "express": "^4.12.3",
+    "gzippo": "^0.2.0"
+  }
+}
